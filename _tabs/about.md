@@ -16,10 +16,23 @@ order: 4
     - Graduate from School of Electronics Engineering and Computer Science
     - GPA Ranking: 15%
 
+- Peking University (Sept. 2022 ~ July 2027)
+    - Ph.D in Natural Language Understanding
+    - School of Computer Science
+
 ## Professional Experiences
+
+### Academic Services
+- COLING 2022 reviewer
+- ICASSP 2023 reviewer
+
+### Publications
+- Wang, Hongbo, Weimin Xiong, Yifan Song, Dawei Zhu, Yu Xia, and Sujian Li. "DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset." ICASSP 2023.
+- Zhu, Dawei, Qiusi Zhan, Zhejian Zhou, Yifan Song, Jiebin Zhang, and Sujian Li. "ConFiguRe: Exploring Discourse-level Chinese Figures of Speech." In Proceedings of the 29th International Conference on Computational Linguistics, pp. 3374-3385. 2022.
 
 ## Awards
 PKU (Undergraduate Stage)
+- Excellent Graduate (2022)
 - Award for Academic Excellents (2021)
 - Honorable Mention in Mathematical Contest in Modeling, MCM-ICM (2021)
 - Award for Academic Excellents (2020)
